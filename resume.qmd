@@ -87,3 +87,83 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
+---
+layout: cv
+title: Davi Oliveira's CV
+---
+
+# Davi Oliveira
+Aspiring Data Scientist & Business Analyst
+
+<div id="webaddress">
+<a href="mailto:davioliveira511@hotmail.com">davioliveira511@hotmail.com</a>  
+| <a href="https://www.linkedin.com/in/davioliveira01">linkedin.com/in/davioliveira01</a>  
+</div>
+
+## Currently
+
+B.S. in Business Analytics at BYU–Idaho  
+IT Business Analyst Lead | Power BI Intern | Fitness Franchise Owner  
+
+### Specialized in
+
+Power BI Dashboards, Business Strategy, Marketing, Data Visualization
+
+### Research Interests
+
+Data Analytics, Business Intelligence, Predictive Modeling, Consumer Behavior
+
+
+## Education
+
+`May 2025`  
+__Brigham Young University–Idaho__, Rexburg, ID  
+B.S. in Business Analytics  
+- Minor in Marketing  
+- Merit Scholarship Recipient  
+- Academic Affairs Coordinator at SHPE BYU-Idaho  
+- Member of Corporate Finance Society (CFS)  
+- GPA: 3.8  
+
+
+## Experience
+
+`Nov 2021 – Present`  
+__IT Business Analyst Lead__, Brigham Young University–Idaho  
+- Lead a team of 4 employees, providing guidance and training  
+- Developed and analyzed multiple Power BI dashboards for decision-making  
+- Helped streamline data collection processes and improve data quality
+
+`Sep 2023 – Present`  
+__Power BI Analyst Intern__, Good2Go Stores  
+- Developed finance department dashboards for revenue optimization  
+- Analyzed large datasets (millions of rows) daily  
+- Created interactive dashboards for clear financial insights
+
+`Nov 2021 – Present`  
+__Business Owner – Franchisee__, Smart Fit, São Paulo, Brazil  
+- Manage daily operations of Latin America’s largest gym franchise  
+- Implemented strategies to boost customer retention and revenue
+
+`May 2021 – Nov 2021`  
+__Paid Ads Analyst__, Making Publicidade, São Paulo, Brazil  
+- Created and analyzed ad campaigns across Facebook, Google, and LinkedIn  
+- Tracked and optimized campaign performance for client businesses  
+
+
+## Volunteer Experience
+
+`May 2019 – Jul 2021`  
+__Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints  
+- Served in Argentina and Brazil  
+- Gained fluency in Spanish within 3 months  
+- Led data-driven improvements across multiple volunteer groups  
+
+
+## Skills & Technical Competences
+
+- **Computer Skills**: Power BI, Tableau, MS Word, Excel, PowerPoint  
+- **Languages**: Portuguese (Native), English (Fluent), Spanish (Fluent)  
+- **Programming**: Intermediate Python, MySQL, R  
+- **Certifications**: Alteryx Core Certification
